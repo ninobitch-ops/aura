@@ -1,0 +1,6 @@
+{
+  "name": "AuraBots",
+  "description": "Prompt-driven web and native mobile application builder with native compilation synthesis, 3D visualizers, live multi-platform sandbox preview, voice prompting, and marketplace trading.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
